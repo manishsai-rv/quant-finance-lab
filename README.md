@@ -1,5 +1,4 @@
 # Quant Finance Lab
-My journey learning mathematics, programming, and quantitative finance.
 
 ## Project 1: Stochastic Analytics Simulation
 
